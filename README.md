@@ -18,3 +18,5 @@ ___Completando la función___
 6. SUMAR DOS NUMEROS "NUMERO1" Y "NUMERO2"
 7. IMPRIMIR RESULTADO
 8. FIN
+
+![Diagrama de flujo](http://i67.tinypic.com/6dtnro.jpg)
